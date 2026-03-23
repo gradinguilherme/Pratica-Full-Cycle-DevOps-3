@@ -152,6 +152,6 @@ Valida o endpoint `/hello` sem parâmetro:
 
 ## Instituição
 
-**UNIVERSIDADE SENAI CIMATEC** 
-**Componente curricular:** Práticas Integradas: Full Cycle  
+- **UNIVERSIDADE SENAI CIMATEC** 
+- **Componente curricular:** Práticas Integradas: Full Cycle  
 
